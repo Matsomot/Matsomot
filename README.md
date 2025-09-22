@@ -24,6 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,anaconda,androidstudio,angular,apollo,arch,arduino,babel,bsd,c,cs,coffeescript,css,debian,bots,discordjs,docker,figma,git,github,html,kali,linux,mastodon,mysql,notion,ps,postgres,py,raspberrypi,redhat,ruby,sketchup,ubuntu,visualstudio,wordpress,cpp,cassandra,devto,django,eclipse,electron,emacs,fastapi,firebase,gamemakerstudio,githubactions,godot," />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,anaconda,androidstudio,angular,apollo,arch,arduino,babel,bsd,c,cs,coffeescript,css,debian,bots,discordjs,docker,figma,git,github,html,kali,linux,mastodon,mysql,notion,ps,postgres,py,raspberrypi,redhat,ruby,sketchup,ubuntu,visualstudio,wordpress,cpp,cassandra,devto,django,eclipse,electron,emacs,fastapi,firebase,gamemakerstudio,githubactions,godot,gulp" />
   </a>
 </p>

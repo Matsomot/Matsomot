@@ -15,13 +15,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 <!-- Markdown -->
-![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,anaconda,androidstudio,angular,apollo,arch,arduino,babel,bsd,c,cs,coffeescript,css,debian,bots,discordjs,docker,figma,git,github,html,kali,linux,mastodon,mysql,notion,ps,postgres,py,raspberrypi,redhat,ruby,sketchup,ubuntu,visualstudio,wordpress,cpp,cassandra,devto,django,eclipse,electron,emacs,fastapi,firebase,gamemakerstudio,githubactions,godot,gulp" />

@@ -1,7 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJpbDB1bWR4bzh1MDVhaGZtamM0ZHBhb3Bqb2R2MnRldXowMTB3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 ## 💫About Me : ##
-
 
 - 👋 Hi, I’m @Matsomot
 - 👀 I’m interested in all programing and computer cience

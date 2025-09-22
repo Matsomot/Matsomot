@@ -1,5 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[add your link 
-  here](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0c34272909ee2a4db5606a014082312b%2Ftenor.gif%3Fitemid%3D15828752)">
+<img align="right" alt="Coding" width="400" src="[https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0c34272909ee2a4db5606a014082312b%2Ftenor.gif%3Fitemid%3D15828752](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJpbDB1bWR4bzh1MDVhaGZtamM0ZHBhb3Bqb2R2MnRldXowMTB3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)">
 
 - 👋 Hi, I’m @Matsomot
 - 👀 I’m interested in all programing and computer cience
